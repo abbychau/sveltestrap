@@ -30,7 +30,7 @@ The component names and interface are inspired by the [reactstrap](https://react
 
 ## Usage
 
-_You need to include a link to Bootstrap 4 stylesheet in your page - these components do not include or embed any Bootstrap styles automatically._
+_You need to include a link to Bootstrap 4 stylesheet in your page (See: [Link](https://bestguy.github.io/sveltestrap/?path=/story/introduction--get-started)) - these components do **not** include or embed any Bootstrap styles automatically._
 
 In your svelte component:
 
