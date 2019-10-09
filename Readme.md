@@ -43,7 +43,7 @@ In your svelte component:
   <Col>
     <Button color="primary" outline>Hello World!</Button>
   </Col>
-<Row>
+</Row>
 ```
 
 ### Layout
